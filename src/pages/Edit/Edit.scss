@@ -1,0 +1,107 @@
+.edit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .edit__right {
+        margin-right: 165px;
+        background-color: #fff;
+        border-radius: 24px;
+        padding: 45px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+        img {
+            width: 450px;
+            height: 300px;
+        }
+
+        .right__content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            background-color: #000;
+            color: #fff;
+            border-radius: 24px;
+            padding: 45px;
+            width: 590px;
+            margin-top: 25px;
+
+            h3 {
+                font-size: 18px;
+                text-transform: uppercase;
+                font-weight: 600;
+            }
+
+            .rating {
+                display: flex;
+                align-items: center;
+                font-size: 18px;
+                margin-top: 20px;
+
+                span {
+                    margin: 0 10px;
+                    font-weight: 600;
+                }
+            }
+        }
+    }
+
+    .edit__left {
+
+
+        h2 {
+            text-align: center;
+            font-style: italic;
+        }
+
+        .inputs {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .filter {
+            padding: 10px 119px;
+        }
+
+        .btn_block {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+
+        }
+
+        .btn {
+            margin-top: 30px;
+            padding: 10px 65px;
+            background-color: #000;
+            color: #fff;
+            border-radius: 24px;
+            transition: all linear 0.2s;
+            margin-right: 15px;
+
+            &.delete {
+                padding: 10px 65px;
+                background-color: #fff;
+                color: #000;
+                margin-right: 0;
+            }
+
+            &.one {
+                padding: 10px 106px;
+                margin-right: 0;
+            }
+
+            &:hover {
+                transition: 0.5;
+                transform: scale(1.1);
+            }
+        }
+    }
+}

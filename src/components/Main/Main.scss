@@ -1,0 +1,211 @@
+main {
+
+    .main__title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 30px;
+
+        .content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+
+            h2 {
+                margin: 0 30px;
+                font-size: 18px;
+                text-transform: uppercase;
+                font-weight: 500;
+                padding-bottom: 5px;
+                border-bottom: 3px solid #fff;
+            }
+
+            p {
+                margin-top: 5px;
+                font-size: 15px;
+
+            }
+        }
+
+    }
+
+    .MuiSvgIcon-root {
+        transform: rotate(45deg);
+    }
+
+
+
+    .form {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 35px;
+
+        .search {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 470px;
+        }
+
+        .inputBar {
+            height: 45px;
+            width: 300px;
+            background-color: #fff;
+            border-radius: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            .MuiSvgIcon-root {
+                transform: rotate(-5deg);
+                margin-right: 15px;
+            }
+
+            input {
+                background-color: #fff;
+
+                &::placeholder {
+                    color: #000;
+                    font-weight: 400;
+                    font-size: 14px;
+                }
+            }
+        }
+
+        .filter {
+            height: 45px;
+            width: 300px;
+            padding: 15px 25px;
+            border-radius: 24px;
+            margin-right: 35px;
+        }
+    }
+
+    .list {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 65px;
+
+
+        .list__content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-right: 25px;
+
+            &:last-child {
+                margin-right: 0;
+            }
+        }
+
+        .list__item {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px 45px;
+            background-color: #fff;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all linear 0.2s;
+
+            img {
+                width: 25px;
+                height: 25px;
+                margin-right: 10px;
+            }
+
+            &:hover {
+                box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
+                transition: 0.5;
+                transform: scale(1.1);
+            }
+
+            &.active {
+                background-color: #696969;
+                color: #fff;
+            }
+        }
+    }
+
+    .mainList {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 65px;
+        flex-wrap: wrap;
+
+        .mainList__item {
+            position: relative;
+            background-color: #fff;
+            padding: 35px;
+            border-radius: 24px;
+            margin-right: 100px;
+            margin-bottom: 30px;
+            width: 200px;
+            height: 230px;
+
+            img {
+                position: absolute;
+                margin-left: auto;
+                margin-right: auto;
+                top: 3px;
+                left: 0;
+                right: 0;
+                text-align: center;
+                width: 95px;
+                max-height: 95px;
+            }
+
+            p {
+                font-size: 16px;
+                text-transform: uppercase;
+                margin-top: 70px;
+                font-weight: 600;
+                text-align: center;
+            }
+
+            .quality {
+                margin-top: 20px;
+                display: flex;
+                align-items: center;
+
+
+                .MuiSvgIcon-root {
+                    transform: rotate(180deg);
+
+                    &:nth-child(1) {
+                        color: yellow;
+                    }
+
+                }
+
+                span {
+                    margin-right: 25px;
+                    margin-left: 10px;
+                    font-size: 16px;
+                }
+            }
+
+            .edit {
+                position: absolute;
+                bottom: 15px;
+                right: 48px;
+                cursor: pointer;
+                border-radius: 24px;
+                padding: 6px 45px;
+                font-size: 12px;
+                background-color: #000;
+                color: #fff;
+                transition: all linear 0.2s;
+
+                &:hover {
+                    transition: 0.5;
+                    transform: scale(1.1);
+                }
+            }
+        }
+    }
+}

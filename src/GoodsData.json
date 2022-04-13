@@ -1,0 +1,442 @@
+[
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893587"
+    },
+    "itemId": "bed01",
+    "imgSrc": "https://pngimg.com/uploads/bed/bed_PNG17424.png",
+    "name": "Classic Bed",
+    "ratings": "3",
+    "price": 152.3,
+    "id": 1
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893588"
+    },
+    "id": 2,
+    "itemId": "bed01",
+    "imgSrc": "https://pngimg.com/uploads/bed/bed_PNG17410.png",
+    "name": "BIG BLACK BED",
+    "ratings": "5",
+    "price": 532.1
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893589"
+    },
+    "id": 3,
+    "itemId": "bed01",
+    "imgSrc": "https://pngimg.com/uploads/bed/bed_PNG17408.png",
+    "name": "Brown Big Bed",
+    "ratings": "4",
+    "price": 580.5
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89358a"
+    },
+    "id": 4,
+    "itemId": "bed01",
+    "imgSrc": "https://pngimg.com/uploads/bed/bed_PNG17404.png",
+    "name": "Modern Bed 2",
+    "ratings": "1",
+    "price": 1233.4
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89358b"
+    },
+    "id": 5,
+    "itemId": "bed01",
+    "imgSrc": "https://pngimg.com/uploads/bed/bed_PNG17391.png",
+    "name": "Luxary GOLD BED",
+    "ratings": "5",
+    "price": 12333
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89358c"
+    },
+    "id": 6,
+    "itemId": "bed01",
+    "imgSrc": "https://pngimg.com/uploads/bed/bed_PNG17376.png",
+    "name": "Modern white bed",
+    "ratings": "4",
+    "price": 443
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89358d"
+    },
+    "id": 31,
+    "itemId": "bed01",
+    "imgSrc": "https://pngimg.com/uploads/bed/bed_PNG17407.png",
+    "name": "WHITE BED Small",
+    "ratings": "3",
+    "price": 53
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89358e"
+    },
+    "id": 32,
+    "itemId": "bed01",
+    "imgSrc": "https://pngimg.com/uploads/bed/bed_PNG17393.png",
+    "name": "WHITE BED BIG",
+    "ratings": "2",
+    "price": 340.3
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89358f"
+    },
+    "id": 7,
+    "itemId": "sofa01",
+    "imgSrc": "https://pngimg.com/uploads/sofa/sofa_PNG6966.png",
+    "name": "BLACK MODERN SOFA",
+    "ratings": "3",
+    "price": 98
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893590"
+    },
+    "id": 8,
+    "itemId": "sofa01",
+    "imgSrc": "https://pngimg.com/uploads/sofa/sofa_PNG6964.png",
+    "name": "GREEN SOFA",
+    "ratings": "3",
+    "price": 23.1
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893591"
+    },
+    "id": 9,
+    "itemId": "sofa01",
+    "imgSrc": "https://pngimg.com/uploads/sofa/sofa_PNG6956.png",
+    "name": "Modern Black Sofa",
+    "ratings": 5,
+    "price": 32.2
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893592"
+    },
+    "id": 10,
+    "itemId": "sofa01",
+    "imgSrc": "https://pngimg.com/uploads/sofa/sofa_PNG6946.png",
+    "name": "GRaY SOFA",
+    "ratings": "3",
+    "price": 34.3
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893593"
+    },
+    "id": 11,
+    "itemId": "sofa01",
+    "imgSrc": "https://pngimg.com/uploads/sofa/sofa_PNG6947.png",
+    "name": "Green SOFA",
+    "ratings": "3",
+    "price": 42.1
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893594"
+    },
+    "id": 12,
+    "itemId": "sofa01",
+    "imgSrc": "https://pngimg.com/uploads/sofa/sofa_PNG6923.png",
+    "name": "GRAY small SOFA",
+    "ratings": "3",
+    "price": 121.3
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893595"
+    },
+    "id": 13,
+    "itemId": "armchair01",
+    "imgSrc": "https://pngimg.com/uploads/armchair/armchair_PNG7069.png",
+    "name": "GREEN ARMCHAIR",
+    "ratings": "2",
+    "price": 23.3
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893596"
+    },
+    "id": 14,
+    "itemId": "armchair01",
+    "imgSrc": "https://pngimg.com/uploads/armchair/armchair_PNG7041.png",
+    "name": "Luxary BLACK ARMCHAIR",
+    "ratings": "5",
+    "price": 1257
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893597"
+    },
+    "id": 15,
+    "itemId": "armchair01",
+    "imgSrc": "https://pngimg.com/uploads/armchair/armchair_PNG7034.png",
+    "name": "BROWN ARMCHAIR",
+    "ratings": "3",
+    "price": 54.2
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893598"
+    },
+    "id": 16,
+    "itemId": "armchair01",
+    "imgSrc": "https://pngimg.com/uploads/armchair/armchair_PNG7023.png",
+    "name": "GRAY ARMCHAIR",
+    "ratings": "3",
+    "price": 43.2
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c893599"
+    },
+    "id": 17,
+    "itemId": "armchair01",
+    "imgSrc": "https://pngimg.com/uploads/armchair/armchair_PNG7071.png",
+    "name": "WHITE ARMCHAIR",
+    "ratings": "4",
+    "price": 52.4
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89359a"
+    },
+    "id": 18,
+    "itemId": "armchair01",
+    "imgSrc": "https://pngimg.com/uploads/armchair/armchair_PNG7067.png",
+    "name": "Vintage Armchair",
+    "ratings": 3,
+    "price": "12"
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89359b"
+    },
+    "id": 19,
+    "itemId": "cupboard01",
+    "imgSrc": "https://pngimg.com/uploads/cupboard_closet/cupboard_closet_PNG16763.png",
+    "name": "VINTAGE CUPBOARD",
+    "ratings": "3",
+    "price": 47.5
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89359c"
+    },
+    "id": 20,
+    "itemId": "cupboard01",
+    "imgSrc": "https://pngimg.com/uploads/cupboard_closet/cupboard_closet_PNG16716.png",
+    "name": "MODERN CUPBOARD",
+    "ratings": "4",
+    "price": 87.5
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89359d"
+    },
+    "id": 21,
+    "itemId": "cupboard01",
+    "imgSrc": "https://pngimg.com/uploads/cupboard_closet/cupboard_closet_PNG16710.png",
+    "name": "WHITE CUPBOARD",
+    "ratings": "2",
+    "price": 52.5
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89359e"
+    },
+    "id": 22,
+    "itemId": "cupboard01",
+    "imgSrc": "https://pngimg.com/uploads/cupboard_closet/cupboard_closet_PNG16750.png",
+    "name": "VINTAGE CUPBOARD",
+    "ratings": "1",
+    "price": 19
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c89359f"
+    },
+    "id": 23,
+    "itemId": "cupboard01",
+    "imgSrc": "https://pngimg.com/uploads/cupboard_closet/cupboard_closet_PNG16756.png",
+    "name": "MODERN CUPBOARD",
+    "ratings": "3",
+    "price": 79.6
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c8935a0"
+    },
+    "id": 24,
+    "itemId": "cupboard01",
+    "imgSrc": "https://pngimg.com/uploads/cupboard_closet/cupboard_closet_PNG16763.png",
+    "name": "VINTAGE CUPBOARD",
+    "ratings": "5",
+    "price": 139
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c8935a1"
+    },
+    "id": 25,
+    "itemId": "dresser01",
+    "imgSrc": "https://pngimg.com/uploads/dresser/dresser_PNG82.png",
+    "name": "Modern Gray Dresser",
+    "ratings": "5",
+    "price": 55
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c8935a2"
+    },
+    "id": 26,
+    "itemId": "dresser01",
+    "imgSrc": "https://pngimg.com/uploads/dresser/dresser_PNG49.png",
+    "name": "Modern white DRESSER",
+    "ratings": "4",
+    "price": 132.1
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c8935a3"
+    },
+    "id": 27,
+    "itemId": "dresser01",
+    "imgSrc": "https://pngimg.com/uploads/dresser/dresser_PNG172.png",
+    "name": "Old Dresser (Exclusive)",
+    "ratings": "5",
+    "price": 1203.2
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c8935a4"
+    },
+    "id": 28,
+    "itemId": "dresser01",
+    "imgSrc": "https://pngimg.com/uploads/dresser/dresser_PNG177.png",
+    "name": "Modern Gray Dresser",
+    "ratings": 4,
+    "price": "9"
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c8935a5"
+    },
+    "id": 29,
+    "itemId": "dresser01",
+    "imgSrc": "https://pngimg.com/uploads/dresser/dresser_PNG137.png",
+    "name": "Vintage DRESSER",
+    "ratings": "3",
+    "price": 51.2
+  },
+  {
+    "_id": {
+      "$oid": "6251bdf36e44338b0c8935a6"
+    },
+    "id": 30,
+    "itemId": "dresser01",
+    "imgSrc": "https://pngimg.com/uploads/dresser/dresser_PNG98.png",
+    "name": "Old Dresser",
+    "ratings": "2",
+    "price": 72.4
+  },
+  {
+    "_id": {
+      "$oid": "62530916f646954b8aab9dd8"
+    },
+    "id": 33,
+    "itemId": "sofa01",
+    "imgSrc": "https://pngimg.com/uploads/sofa/sofa_PNG6965.png",
+    "name": "Orange Sofa",
+    "ratings": 4,
+    "price": "235"
+  },
+  {
+    "_id": {
+      "$oid": "62530916f646954b8aab9dd9"
+    },
+    "id": 34,
+    "itemId": "sofa01",
+    "imgSrc": "https://pngimg.com/uploads/sofa/sofa_PNG6928.png",
+    "name": "Brown Sofa",
+    "ratings": 2,
+    "price": "135.2"
+  },
+  {
+    "_id": {
+      "$oid": "62530916f646954b8aab9dda"
+    },
+    "id": 35,
+    "itemId": "armchair01",
+    "imgSrc": "https://pngimg.com/uploads/armchair/armchair_PNG7062.png",
+    "name": "White Armchair",
+    "ratings": 3,
+    "price": "123"
+  },
+  {
+    "_id": {
+      "$oid": "62530916f646954b8aab9ddb"
+    },
+    "id": 36,
+    "itemId": "armchair01",
+    "imgSrc": "https://pngimg.com/uploads/armchair/armchair_PNG7064.png",
+    "name": "Yellow Armchair",
+    "ratings": 2,
+    "price": "33"
+  },
+  {
+    "_id": {
+      "$oid": "62530916f646954b8aab9ddc"
+    },
+    "id": 37,
+    "itemId": "cupboard01",
+    "imgSrc": "https://pngimg.com/uploads/cupboard_closet/cupboard_closet_PNG16739.png",
+    "name": "Modern Cupboard",
+    "ratings": 4,
+    "price": "194.2"
+  },
+  {
+    "_id": {
+      "$oid": "62530916f646954b8aab9ddd"
+    },
+    "id": 38,
+    "itemId": "cupboard01",
+    "imgSrc": "https://pngimg.com/uploads/cupboard_closet/cupboard_closet_PNG16763.png",
+    "name": "Vintage Cupboard",
+    "ratings": 3,
+    "price": "24.2"
+  },
+  {
+    "_id": {
+      "$oid": "62530916f646954b8aab9dde"
+    },
+    "id": 39,
+    "itemId": "dresser01",
+    "imgSrc": "https://pngimg.com/uploads/dresser/dresser_PNG72.png",
+    "name": "Black dresser",
+    "ratings": "4",
+    "price": 424.2
+  },
+  {
+    "_id": {
+      "$oid": "62530916f646954b8aab9ddf"
+    },
+    "id": 40,
+    "itemId": "dresser01",
+    "imgSrc": "https://pngimg.com/uploads/dresser/dresser_PNG89.png",
+    "name": "Brown dresser",
+    "ratings": "3",
+    "price": 129.1
+  }
+]
